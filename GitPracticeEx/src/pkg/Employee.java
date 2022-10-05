@@ -1,5 +1,5 @@
 package pkg;
-
+//Employee Entity
 public class Employee implements Comparable<Employee>{
 	private int eid;
 	private String name;
